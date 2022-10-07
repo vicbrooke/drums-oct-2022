@@ -8,6 +8,6 @@
 
 ---
 
-[CLICK HERE TO PLAY]
+[CLICK HERE TO PLAY](https://vicbrooke.github.io/drums-oct-2022/)
 ---
 ![game screen shot](https://user-images.githubusercontent.com/113979837/194535739-9a9bf273-95e1-4e1b-b73c-d026b060d832.png)
