@@ -36,20 +36,17 @@ button {
 #bass-drum {
     grid-area: 11 / 5 / 19 / 14;
 }
-
 #floor-tom {
     grid-area: 8 / 3 / 13 / 7;
-   border-radius: 0;
+    border-radius: 0;
 }
 #snare {
     grid-area: 9 / 13 / 11 / 17;
     border-radius: 0;
-
 }
 #medium-tom {
     grid-area: 6 / 7 / 10 / 10;
     border-radius: 0;
-
 }
 #hi-hat {
     grid-area: 6 / 16 / 8 / 21;
@@ -57,17 +54,14 @@ button {
 #crash {
     grid-area: 2 / 13 / 3 / 18;
     transform: rotate(-6deg);
-   
 }
 #ride {
     grid-area: 3 / 1 / 5 / 7;
     transform: rotate(18deg);
-    /* border-radius: 50%; */
 }
 #high-tom {
     grid-area: 7 / 11 / 10 / 14;
     border-radius: 0;
-
 }
 
 /* For tablets and desktops */
